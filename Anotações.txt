@@ -7,3 +7,5 @@ Pull Request
 Branch
 
 Issues
+
+Merge
